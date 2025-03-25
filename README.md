@@ -5,4 +5,3 @@ Assignment repository for UNT CSCE1015
 
 ## Favorite Professor
 ## Professor Germain
-$(YOUR_FAVORITE_PROFESSOR)
